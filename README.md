@@ -1,4 +1,4 @@
-# claude-channel-github-webhook
+# Claude Channel GitHub
 
 A Claude Code Channel plugin that delivers GitHub PR events as real-time notifications to your Claude Code session.
 
